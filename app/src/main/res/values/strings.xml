@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZooDirectory</string>
+    <string name="animal_thumbnail">Animal Thumbnail</string>
+    <string name="phone_number_000_0000">Phone Number: 000-0000</string>
+    <string name="the_amazing_zoo">The Amazing Zoo</string>
+    <string name="information">Information</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="zoo_information_label">Zoo Information</string>
+    <string name="animal_listing_label">Animal Listing</string>
+    <string name="animal_detail_label">Animal Detail</string>
+    <string name="_000_0000">000-0000</string>
+</resources>
